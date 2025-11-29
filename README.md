@@ -13,6 +13,6 @@
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/Docera.git
+git clone https://github.com/Vladutul/Docera.git
 cd Docera
 pip install -r requirements.txt
